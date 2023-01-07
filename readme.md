@@ -1,5 +1,13 @@
 <h1>CoolDeco</h1>
 
+## <a href="https://jaumevibu.github.io/Buy_it/" >Demo</a>
+
+Continuación del proyecto por mi cuenta con nuevos objetivos:
+ - [ ] Arreglar bugs que aparecieron tras la presentacion
+ - [ ] Añadir burger menu
+ - [ ] Añadir funcionalidad de añadir al carrito
+ - [ ] Añadir funcionalidad de carrito dinámico
+
 <h2>OBJETIVOS</h2>
 <ul>
 <li>
@@ -81,5 +89,3 @@ Sketch y mockup usando Figma:
 <img src="./img/img_readme/mokupmv.png"/>
 <img src="./img/img_readme/mokupdesktop.png"/>
 
-GitHub pages:
-https://menchu02.github.io/Buy_it/
