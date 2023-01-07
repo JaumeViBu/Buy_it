@@ -1,4 +1,14 @@
-*{
+* {
   box-sizing: border-box;
   font-family: var(--main-font);
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }

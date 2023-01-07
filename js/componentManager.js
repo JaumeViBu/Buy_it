@@ -10,7 +10,7 @@
  * @param {string} path Path of the file with the HTML code to insert
  * @param {string} destinationSelector CSS selector used to select in which HTML element we want to insert the contents of the given file path
  */
-async function loadComponentHtml(path, destinationSelector) {
+export async function loadComponentHtml(path, destinationSelector) {
 
   await fetch(path)
     .then((html) => { return html.text(); })
