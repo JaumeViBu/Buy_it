@@ -1,6 +1,6 @@
 <h1>CoolDeco</h1>
 
-## <a href="https://jaumevibu.github.io/Buy_it/" >Demo</a>
+## <a href="https://jaumevibu.github.io/Buy_it/html/catalogo" >Demo</a>
 
 Continuación del proyecto por mi cuenta con nuevos objetivos:
  - [ ] Arreglar bugs que aparecieron tras la presentacion
